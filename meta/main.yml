@@ -25,6 +25,3 @@ galaxy_info:
     - 'development'
     - 'monitoring'
     - 'sonarqube'
-
-dependencies:
-  - jetune.java
