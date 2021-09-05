@@ -110,6 +110,9 @@ sonar_web_java_additional_opts: ""
 # By default, ports will be used on all IP addresses associated with the server.
 sonar_web_host: 0.0.0.0
 
+# Host used to check Sonarqube Health
+sonar_check_host: localhost
+
 # Web context. When set, it must start with forward slash (for example /sonarqube).
 # The default value is root context (empty value).
 sonar_web_context: ""
